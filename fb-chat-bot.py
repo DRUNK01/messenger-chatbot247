@@ -535,11 +535,11 @@ class ChatBot(Client):
             elif ("hello" in msg or "hlo" in msg):
                 reply = "Hi"
                 sendMsg()
-            elif ("How are you?" in msg):
-                reply = "I am doing fine. What about you?"
+            elif ("How are you" in msg):
+                reply = "I am doing fine. What about you"
                 sendMsg()
             elif (msg == "hi"):
-                reply = "Hello! How can I help you?"
+                reply = "Hello! How can I help you mf?"
                 sendMsg()
 
         except Exception as e:
