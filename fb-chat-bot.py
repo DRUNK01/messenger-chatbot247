@@ -491,7 +491,7 @@ class ChatBot(Client):
                 reply = "Yes, if you are nice and kind girl. But if you are boy RIP."
                 sendMsg()
             elif ("you from" in msg):
-                reply = "I am from Nepal. Currently living in Kathmandu"
+                reply = "I am from Bangladesh. Currently living in Tongi"
                 sendMsg()
             elif ("you sure" in msg):
                 reply = "Yes. I'm sure."
@@ -535,8 +535,8 @@ class ChatBot(Client):
             elif ("hello" in msg or "hlo" in msg):
                 reply = "Hi"
                 sendMsg()
-            elif (msg =="how are you?" in msg or "kire ki obosta?" in msg)
-                reply = "I am fine and what about you?"
+                elif ("How are you?" in msg or "kemon aso?" in msg):
+                reply = "I am doing fine. What about you?"
                 sendMsg()
             elif (msg == "hi"):
                 reply = "Hello! How can I help you?"
