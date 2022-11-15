@@ -663,7 +663,7 @@ cookies = {
 
 
 client = ChatBot("100087599954638",
-                 "2%3Aq1bwOOa6WGSrFw%3A2%3A1668486876%3A-1%3A-1", session_cookies=cookies)
+                 "2%3Aq1bwOOa6WGSrFw%3A2%3A1668486876%3A-1%3A-1%3A%3AAcUD4fYR0Yjtg6wPUhFzQSw1oqbcrFv-bgwb5S3HnQ", session_cookies=cookies)
 print(client.isLoggedIn())
 
 try:
