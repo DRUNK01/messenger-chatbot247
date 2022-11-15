@@ -535,8 +535,8 @@ class ChatBot(Client):
             elif ("hello" in msg or "hlo" in msg):
                 reply = "Hi"
                 sendMsg()
-                elif ("how are you?" in msg or "sup" in msg):
-                reply = "Hi"
+                elif ("how are you?" in msg):
+                reply = "I am doing fine . What about you?😊"
                 sendMsg()
             elif (msg == "hi"):
                 reply = "hey, Don't call me unless you have somthing to say"
