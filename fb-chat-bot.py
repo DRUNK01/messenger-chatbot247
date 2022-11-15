@@ -536,7 +536,7 @@ class ChatBot(Client):
                 reply = "Hi"
                 sendMsg()
             elif (msg == "hi"):
-                reply = "hey, Don't call me unless you have somthing to say"
+                reply = "hey, how can I help you?"
                 sendMsg()
 
         except Exception as e:
