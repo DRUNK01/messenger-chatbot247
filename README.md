@@ -1,9 +1,8 @@
 # fb-chat-bot
 ## Getting Started with fb-chat-bot
 
-### connecting your fb account tutorial video link  
-## Video Link :  
-https://youtu.be/1QRGDIqNlME
+### connecting your fb account tutorial video link   
+
 
 # IMP UPDATE!!!  
 ### If u want to work bot even after fb logout.. just follow these steps:  
