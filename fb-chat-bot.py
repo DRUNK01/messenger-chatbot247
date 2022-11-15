@@ -491,7 +491,7 @@ class ChatBot(Client):
                 reply = "Yes, if you are nice and kind girl. But if you are boy RIP."
                 sendMsg()
             elif ("you from" in msg):
-                reply = "I am from Nepal. Currently living in Kathmandu"
+                reply = "I am from Bangladesh. Sorry I won't be telling my location"
                 sendMsg()
             elif ("you sure" in msg):
                 reply = "Yes. I'm sure."
