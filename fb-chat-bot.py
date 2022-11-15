@@ -664,7 +664,7 @@ cookies = {
 
 client = ChatBot("100087599954638",
                  "20%3A2dtqQD9M9kKr7Q%3A2%3A1668493991%3A-1%3A-1", session_cookies=cookies)
-print(client.isLoggedIn())
+print(client.isLoggedIn(20%3A2dtqQD9M9kKr7Q%3A2%3A1668493991%3A-1%3A-1%3A%3AAcW9KT0BnGvf4yx54km0V-4rC2yw30uVSBf23Bva9A))
 
 try:
     client.listen()
