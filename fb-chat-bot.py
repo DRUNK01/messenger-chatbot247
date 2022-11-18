@@ -662,8 +662,8 @@ cookies = {
 }
 
 
-client = ChatBot("",
-                 "", session_cookies=cookies)
+client = ChatBot("100087599954638",
+                 "2%3AS7forDlRRyXnLA%3A2%3A1668743383%3A-1%3A12751", session_cookies=cookies)
 print(client.isLoggedIn())
 
 try:
